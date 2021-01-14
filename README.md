@@ -1,1 +1,1 @@
-# GROUND-CLASS-23
+# Box Class
